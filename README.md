@@ -2,6 +2,6 @@
 
 Biological Computation - 20581
 
-A perceptron that classifies binary numbers to dominenting 1 group or dominenting 0 group
+A perceptron that classifies binary numbers to two groups according to the dominenting digit in the number.
 
 
